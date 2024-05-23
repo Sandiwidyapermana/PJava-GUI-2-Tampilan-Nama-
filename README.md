@@ -1,2 +1,2 @@
-# PJava-GUI-2-Tampilan-Nama-
-Untuk menampilkan Tampilan Nama
+# PJava-GUI-2 (Tampilan Nama)
+Untuk Menampilkan Tampilan Nama
