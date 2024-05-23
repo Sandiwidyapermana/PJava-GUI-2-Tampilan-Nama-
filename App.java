@@ -67,7 +67,7 @@ public class App {
     tblUser.getTableHeader().setForeground( Color.WHITE );
     tblUser.setRowHeight(25);
     tblUser.getTableHeader().setReorderingAllowed(false);
-    tblUser.setShowVerticalLines(false);
+    
     tblUser.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
     tblUser.setDragEnabled(true);
 
